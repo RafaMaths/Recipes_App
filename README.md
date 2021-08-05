@@ -1728,3 +1728,34 @@ O avaliador automático não necessariamente avalia seu projeto na ordem em que 
 
 Você sabia que o LinkedIn é a principal rede social profissional e compartilhar o seu aprendizado lá é muito importante para quem deseja construir uma carreira de sucesso?
 Compartilhe esse projeto no seu LinkedIn, marque o perfil da Trybe (@trybe) e mostre para a sua rede toda a sua evolução.
+
+____________________________________________________________________
+
+
+# Seletas App
+
+
+Seletas App é um aplicativo de receitas com base em React desenvolvido ao longo da formação em Front end na Trybe.
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+    
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+  
+## Authors
+
+- [Rafael Mathias](https://github.com/RafaMaths)
+- [Daniel Roberto](https://github.com/DanielTrybe)
+- [Gildeir Lopes](https://github.com/Gildeir)
+- [Gabriel Dias](https://github.com/gabzzz-dias)
+
+  
+## Demo
+
+https://user-images.githubusercontent.com/76234176/128432340-da1c27d5-833b-4554-9f33-89444b48ef96.mp4
